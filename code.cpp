@@ -1,4 +1,3 @@
-'''
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -91,4 +90,3 @@ string rtrim(const string &str) {
 
     return s;
 }
-'''
